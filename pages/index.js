@@ -4,6 +4,7 @@ function Home() {
     return (
         <div> 
             <h1>Home</h1>
+            <h2> Biruleibe na areaaaa</h2>
             <Contador/>
         </div>
     )
